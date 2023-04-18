@@ -19,12 +19,7 @@ If there is no common prefix, return an empty string ```""```.
   Output: ""
   Explanation: There is no common prefix among the input strings.
 ```
-**Example 3**
-```bash
-  Input: s = "MCMXCIV"
-  Output: 1994
-  Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
-```
+
     
 ### Constraints
 
