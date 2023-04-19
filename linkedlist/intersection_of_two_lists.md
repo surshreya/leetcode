@@ -3,6 +3,8 @@
 
 Given the heads of two singly linked-lists headA and headB, return the node at which the two lists **intersect**. If the two linked lists have no intersection at all, return null.
 
+![160_statement](https://user-images.githubusercontent.com/118065908/233143079-d1917073-92fb-460e-8134-782ec3ffdfbf.png)
+
 
 The test cases are generated such that there are no cycles anywhere in the entire linked structure.
 
