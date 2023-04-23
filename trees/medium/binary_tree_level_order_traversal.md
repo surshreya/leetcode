@@ -2,6 +2,7 @@
 
 Given the `root` of an binary tree, return the `level order traversal` of its nodes' values.
 
+![tree1](https://user-images.githubusercontent.com/118065908/233822465-6968b8b2-2198-4571-978f-1fb05f0dc97b.jpg)
 **Example 1**
 
 ```bash
