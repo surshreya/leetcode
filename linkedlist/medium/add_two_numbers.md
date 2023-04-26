@@ -3,6 +3,7 @@
 You are given two **_non-empty_** linked lists representing two non-negative integers. The digits are stored in **_reverse order_**, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+![addtwonumber1](https://user-images.githubusercontent.com/118065908/234662267-832eb2ae-f057-44f1-a909-1848e43346fe.jpg)
 
 **Example 1**
 
