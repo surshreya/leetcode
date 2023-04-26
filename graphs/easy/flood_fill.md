@@ -8,6 +8,7 @@ To perform a **flood fill**, consider the starting pixel, plus any pixels **conn
 
 `Return the modified image after performing the flood fill`.
 
+![flood1-grid](https://user-images.githubusercontent.com/118065908/234639879-df42c70e-cd4f-4899-9bac-b8a75f5d19e5.jpg)
 **Example 1**
 
 ```bash
