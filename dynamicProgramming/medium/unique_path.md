@@ -12,6 +12,8 @@ Given the two integers `m` and `n`, return **_the number of possible unique path
 
 The test cases are generated so that the answer will be less than or equal to `2 * 109`.
 
+![robot_maze](https://user-images.githubusercontent.com/118065908/235071701-14b2ae92-7fa3-4eb2-9c59-c688cc5f2f25.png)
+
 **Example 1**
 
 ```bash
