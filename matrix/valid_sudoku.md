@@ -15,6 +15,9 @@ Determine if a `9 x 9` Sudoku board is valid. Only the filled cells need to be v
 
 **Example 1**
 
+![image](https://github.com/surshreya/leetcode/assets/118065908/cff7d616-5774-44b4-86c4-e0cb255fdef4)
+
+
 ```bash
 Input: board =
 [["5","3",".",".","7",".",".",".","."]
